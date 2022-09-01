@@ -2,7 +2,6 @@ package com.smic.newsapp.model.retrofit
 
 import com.smic.newsapp.model.common.Result
 import com.smic.newsapp.model.entities.NewsResponse
-import com.smic.newsapp.model.retrofit.NewsApi
 
 /**
  * @author Smogevscih Yuri
